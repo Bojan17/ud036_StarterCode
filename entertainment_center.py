@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-toy_story = media.Movie("Toy Sorie",
+toy_story = media.Movie("Toy Story",
                         "http://upload.wikimedia.or/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
 
