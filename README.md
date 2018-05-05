@@ -1,2 +1,3 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+#Simple website for displaying movies
+
+clone this repo and run fresh_tomatoes file
